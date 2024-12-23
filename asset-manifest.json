@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/INDUSTRIAL-CONTROL-SOFTWARE/static/css/main.0c05478c.css",
+    "main.js": "/INDUSTRIAL-CONTROL-SOFTWARE/static/js/main.60656eff.js",
+    "index.html": "/INDUSTRIAL-CONTROL-SOFTWARE/index.html",
+    "main.0c05478c.css.map": "/INDUSTRIAL-CONTROL-SOFTWARE/static/css/main.0c05478c.css.map",
+    "main.60656eff.js.map": "/INDUSTRIAL-CONTROL-SOFTWARE/static/js/main.60656eff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c05478c.css",
+    "static/js/main.60656eff.js"
+  ]
+}
